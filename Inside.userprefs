@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{05E17339-EE2F-4F0D-8FD7-D6B4AF4B0B41}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MobileAppService/appsettings.Development.json">
+    <Files>
+      <File FileName="MobileAppService/Startup.cs" Line="58" Column="79" />
+      <File FileName="Inside/Views/AboutPage.xaml" Line="61" Column="1" />
+      <File FileName="MobileAppService/appsettings.Development.json" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Inside.Droid PreferredExecutionTarget="Android.Android_Accelerated_Nougat" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Inside.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.CD4C4F69-E32B-4BF4-942D-26311C5340F9">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.Inside.iOS>
+</Properties>

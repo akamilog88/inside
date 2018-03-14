@@ -1,0 +1,13 @@
+C:\Users\Yariel\Documents\Source\Repos\Inside\MobileAppService\bin\Debug\netcoreapp1.1\Inside.MobileAppService.deps.json
+C:\Users\Yariel\Documents\Source\Repos\Inside\MobileAppService\bin\Debug\netcoreapp1.1\Inside.MobileAppService.runtimeconfig.json
+C:\Users\Yariel\Documents\Source\Repos\Inside\MobileAppService\bin\Debug\netcoreapp1.1\Inside.MobileAppService.runtimeconfig.dev.json
+C:\Users\Yariel\Documents\Source\Repos\Inside\MobileAppService\bin\Debug\netcoreapp1.1\Inside.MobileAppService.dll
+C:\Users\Yariel\Documents\Source\Repos\Inside\MobileAppService\bin\Debug\netcoreapp1.1\Inside.MobileAppService.pdb
+C:\Users\Yariel\Documents\Source\Repos\Inside\MobileAppService\obj\Debug\netcoreapp1.1\Inside.MobileAppService.csprojResolveAssemblyReference.cache
+C:\Users\Yariel\Documents\Source\Repos\Inside\MobileAppService\obj\Debug\netcoreapp1.1\Inside.MobileAppService.csproj.CoreCompileInputs.cache
+C:\Users\Yariel\Documents\Source\Repos\Inside\MobileAppService\obj\Debug\netcoreapp1.1\Inside.MobileAppService.AssemblyInfoInputs.cache
+C:\Users\Yariel\Documents\Source\Repos\Inside\MobileAppService\obj\Debug\netcoreapp1.1\Inside.MobileAppService.AssemblyInfo.cs
+C:\Users\Yariel\Documents\Source\Repos\Inside\MobileAppService\obj\Debug\netcoreapp1.1\Inside.MobileAppService.dll
+C:\Users\Yariel\Documents\Source\Repos\Inside\MobileAppService\obj\Debug\netcoreapp1.1\Inside.MobileAppService.pdb
+C:\Users\camilo\Downloads\Compressed\Inside\MobileAppService\obj\Debug\netcoreapp1.1\Inside.MobileAppService.dll
+C:\Users\camilo\Downloads\Compressed\Inside\MobileAppService\obj\Debug\netcoreapp1.1\Inside.MobileAppService.pdb
